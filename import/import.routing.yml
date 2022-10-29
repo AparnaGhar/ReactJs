@@ -1,0 +1,8 @@
+
+import.configuration:
+  path: '/admin/config/custom/import'
+  defaults:
+    _form: '\Drupal\import\Form\importConfiguration'
+    _title: 'Import Configuration && entity creation'
+  requirements:
+   _permission: 'access custom Import configuration'

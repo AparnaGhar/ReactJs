@@ -1,0 +1,6 @@
+name: Import Module
+type: module
+description: 'Custom module for mongo import related pages.'
+package: Custom
+version: 1.0
+core: 8.x
